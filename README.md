@@ -93,7 +93,3 @@ Se quiser forçar o endereço do servidor realtime no cliente, use a variável:
 ## Créditos e atribuições
 
 Veja [ATTRIBUTIONS.md](./ATTRIBUTIONS.md).
-
-## Licença
-
-Este repositório não inclui um arquivo `LICENSE` próprio. Se você for publicar/redistribuir, valide os termos do projeto original do Figma e mantenha as atribuições e licenças de terceiros conforme descrito em [ATTRIBUTIONS.md](./ATTRIBUTIONS.md).
